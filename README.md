@@ -8,17 +8,17 @@ En Python, tenemos varios tipos de condicionales que nos ayudan a definir accion
  Se utiliza para ejecutar un bloque de código si se cumple una condición específica.
  >ejemplo:
 
- '''phyton
+ ```phyton
  
  edad = 18
 if edad >= 18:
     print("Eres mayor de edad")
-'''
+```
 
 ## Condicional if-elif-else: 
 Se utiliza cuando hay múltiples condiciones y queremos evaluarlas en orden.
 >Ejenplo :
-'''phyton
+```phyton
 nota = 75
 if nota >= 90:
     print("Aprobado con A")
@@ -26,4 +26,5 @@ elif nota >= 80:
     print("Aprobado con B")
 else:
     print("Reprobado")
-'''
+```
+
